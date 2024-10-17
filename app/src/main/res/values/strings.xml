@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hanko-Elements</string>
+    <string name="asset_statements" translatable="false">
+[{
+  \"include\": \"https://apps-metadata-provider.stg.hanko.io/.well-known/assetlinks.json\"
+}]
+</string>
+</resources>
